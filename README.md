@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Glass Model (2)](https://github.com/user-attachments/assets/0d8bbbd1-ce10-4e1a-a849-8068e57c0f84)
 
-### Name:
-### Register Number:
+### Name: M BALASURIYA
+### Register Number: 24900432
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
